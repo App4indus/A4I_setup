@@ -27,11 +27,11 @@ Exécuter le script :
 
 Le scipt se lance :
 
-![a4i-setup](.src/img/screen1.png)
+![a4i-setup](https://github.com/App4indus/A4I_setup/blob/main/src/img/screen1.png?raw=true)
 
 ## 📖 Documentation
 
-Pour plus d'informations, se référer à la documentation officielle de l'outil : https://docs.app4indus.com/books/a4i-setup-script-dinstallation-des-modules
+Pour plus d'information sur l'utilisation, se référer à la documentation : https://docs.app4indus.com/books/a4i-setup-script-dinstallation-des-modules
 
 ## 📝 Licence
 
